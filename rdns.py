@@ -16,4 +16,4 @@ for ent in sou.findAll('td'):
 fnl = list(set(fnl))
 
 for ent in fnl:
-print (ent)
+	print (ent)
